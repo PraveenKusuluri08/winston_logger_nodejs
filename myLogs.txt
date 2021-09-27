@@ -1,0 +1,17 @@
+Sep-27-2021 14:31:40  info: 
+ User acced to /login
+ Sep-27-2021 14:31:55  info: 
+ User mail Address admin%40flair.com 
+ Sep-27-2021 14:31:55  info: 
+ User Visited🏠 => localhost:3000/ 
+ Sep-27-2021 14:33:06  info: 
+ User Visited🏠 => localhost:3000/ 
+ Sep-27-2021 14:34:07  info: 
+ User acced to /login
+ Sep-27-2021 14:34:20  info: 
+ User mail Address praveenkusuluri08%40gmail.com 
+ Sep-27-2021 14:34:20  info: 
+ User Visited🏠 => localhost:3000/ 
+ Sep-27-2021 14:34:49  info: 
+ User Visited🏠 => localhost:3000/ 
+ 
