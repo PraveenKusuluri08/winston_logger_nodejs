@@ -9,6 +9,8 @@ const myFormat = printf(({ level, message, timestamp }) => {
   console.log(message)
   fs.appendFile("./myLogs.txt",`${timestamp}  ${level}: ${message} `,(err)=>{
     if(err){
+      return err
+    }else{
       return fs.readFile("./myLogs",(err,data)=>{
         if(err ||data===""){
           return err
